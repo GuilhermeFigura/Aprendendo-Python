@@ -13,4 +13,3 @@ for pessoas in range(2, 6):
     if peso <= mínimo:
         mínimo = peso
 print(f'O peso máximo é {máximo}KG e o mínimo é {mínimo}KG.')
-
